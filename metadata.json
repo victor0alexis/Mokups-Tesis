@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Clínico Obstetricia",
+  "description": "Simulador clínico interactivo para estudiantes de Obstetricia con casos clínicos, anamnesis interactiva, control de estrés materno, examen físico y feedback evaluativo.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
